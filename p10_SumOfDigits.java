@@ -1,3 +1,7 @@
+/*
+ sum of a given number n
+ */
+
 public class p10_SumOfDigits {
     public static void main(String[] args) {
         int n = 1234;
