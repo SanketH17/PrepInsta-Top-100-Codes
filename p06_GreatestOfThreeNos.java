@@ -1,4 +1,4 @@
-public class p6_GreatestOfThreeNos {
+public class p06_GreatestOfThreeNos {
     public static void main(String[] args) {
         int n1 = 12;
         int n2 = 58;

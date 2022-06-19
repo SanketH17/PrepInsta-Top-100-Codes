@@ -1,4 +1,4 @@
-public class p5_GreatestNumber {
+public class p05_GreatestNumber {
     public static void main(String[] args) {
         int n1 = 12;
         int n2 = 56;

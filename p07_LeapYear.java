@@ -1,4 +1,4 @@
-public class p7_LeapYear {
+public class p07_LeapYear {
     public static void main(String[] args) {
         int year = 2016;
 

@@ -1,4 +1,4 @@
-public class p3_SumN {
+public class p03_SumN {
     public static void main(String[] args) {
         int n = 10;
         int sum = 0;

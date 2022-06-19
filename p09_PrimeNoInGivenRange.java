@@ -1,6 +1,6 @@
 
 
-public class p9_PrimeNoInGivenRange {
+public class p09_PrimeNoInGivenRange {
     public static void main(String[] args) {
         int low = 20;
         int high = 50;

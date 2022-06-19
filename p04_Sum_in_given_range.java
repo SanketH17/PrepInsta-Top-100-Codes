@@ -1,4 +1,4 @@
-public class p4_Sum_in_given_range {
+public class p04_Sum_in_given_range {
     public static void main(String[] args) {
         int n1 = 1;
         int n2 = 10;

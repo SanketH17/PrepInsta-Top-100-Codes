@@ -1,4 +1,4 @@
-public class p8_Sum_of_firstN_nos {
+public class p08_Sum_of_firstN_nos {
     public static void main(String[] args) {
         int n = 5;
         int sum = 0;

@@ -1,4 +1,4 @@
-public class p2_CheckPrime {
+public class p02_CheckPrime {
     public static void main(String[] args) {
         int n = 32;
         boolean prime = true;
