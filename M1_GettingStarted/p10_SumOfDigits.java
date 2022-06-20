@@ -1,5 +1,7 @@
+package M1_GettingStarted;
 /*
- sum of a given number n
+ sum of digits of a given number
+
  */
 
 public class p10_SumOfDigits {

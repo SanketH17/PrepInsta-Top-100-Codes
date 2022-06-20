@@ -1,3 +1,4 @@
+package M1_GettingStarted;
 public class p01_CheckNumber {
     public static void main(String[] args) {
         int num = 11;

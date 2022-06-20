@@ -1,3 +1,4 @@
+package M1_GettingStarted;
 public class p05_GreatestNumber {
     public static void main(String[] args) {
         int n1 = 12;
