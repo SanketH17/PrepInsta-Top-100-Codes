@@ -1,3 +1,6 @@
+package M1_GettingStarted;
+
+
 public class p19_PowerOfNumber {
     public static void main(String[] args) {
     double base = 1.5;
