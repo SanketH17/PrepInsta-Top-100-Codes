@@ -1,6 +1,6 @@
 package M1_GettingStarted;
 
-public class p11_ReverseNumber {
+public class p12_ReverseNumber {
     public static void main(String[] args) {
         int num = 12;
         int r;
